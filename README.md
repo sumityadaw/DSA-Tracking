@@ -19,6 +19,7 @@
 | [0009-palindrome-number](https://github.com/sumityadaw/DSA-Tracking/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/sumityadaw/DSA-Tracking/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/sumityadaw/DSA-Tracking/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/sumityadaw/DSA-Tracking/tree/master/0070-climbing-stairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,4 +42,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sumityadaw/DSA-Tracking/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sumityadaw/DSA-Tracking/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sumityadaw/DSA-Tracking/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
