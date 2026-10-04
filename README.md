@@ -41,6 +41,7 @@
 | [0014-longest-common-prefix](https://github.com/sumityadaw/DSA-Tracking/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sumityadaw/DSA-Tracking/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/sumityadaw/DSA-Tracking/tree/master/0058-length-of-last-word) |
+| [0678-valid-parenthesis-string](https://github.com/sumityadaw/DSA-Tracking/tree/master/0678-valid-parenthesis-string) |
 ## Trie
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sumityadaw/DSA-Tracking/tree/master/0070-climbing-stairs) |
+| [0678-valid-parenthesis-string](https://github.com/sumityadaw/DSA-Tracking/tree/master/0678-valid-parenthesis-string) |
 ## Memoization
 |  |
 | ------- |
@@ -69,4 +71,16 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sumityadaw/DSA-Tracking/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/sumityadaw/DSA-Tracking/tree/master/0678-valid-parenthesis-string) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/sumityadaw/DSA-Tracking/tree/master/0678-valid-parenthesis-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/sumityadaw/DSA-Tracking/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
