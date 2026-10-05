@@ -42,6 +42,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sumityadaw/DSA-Tracking/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/sumityadaw/DSA-Tracking/tree/master/0058-length-of-last-word) |
 | [0678-valid-parenthesis-string](https://github.com/sumityadaw/DSA-Tracking/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/sumityadaw/DSA-Tracking/tree/master/0856-score-of-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/sumityadaw/DSA-Tracking/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/sumityadaw/DSA-Tracking/tree/master/0856-score-of-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -83,4 +85,5 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/sumityadaw/DSA-Tracking/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/sumityadaw/DSA-Tracking/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
