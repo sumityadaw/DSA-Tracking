@@ -6,12 +6,14 @@
 | ------- |
 | [0001-two-sum](https://github.com/sumityadaw/DSA-Tracking/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/sumityadaw/DSA-Tracking/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/sumityadaw/DSA-Tracking/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/sumityadaw/DSA-Tracking/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sumityadaw/DSA-Tracking/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/sumityadaw/DSA-Tracking/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sumityadaw/DSA-Tracking/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/sumityadaw/DSA-Tracking/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sumityadaw/DSA-Tracking/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Math
@@ -86,4 +88,8 @@
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/sumityadaw/DSA-Tracking/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/sumityadaw/DSA-Tracking/tree/master/0856-score-of-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/sumityadaw/DSA-Tracking/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
